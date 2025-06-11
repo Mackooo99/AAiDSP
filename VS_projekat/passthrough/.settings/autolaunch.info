@@ -1,0 +1,10 @@
+#
+#Wed Mar 27 20:10:04 CET 2024
+com.tensilica.xide.cdtinitfileprovided=false
+com.tensilica.xide.cdtrunscriptafterload=false
+com.tensilica.xide.cdt.launch.attachingdo=resume and stop in main
+org.eclipse.cdt.launch.PROGRAM_ARGUMENTS=c\:\\Users\\pekez\\Workspace\\history\\DSP_System_and_Applications\\streams\\pcm_2ch\\JDBRK5808\\JDBRK5808.wav c\:\\Users\\pekez\\Downloads\\out.wav
+com.tensilica.xide.cdtinitfile=
+org.eclipse.cdt.launch.WORKING_DIRECTORY=
+com.tensilica.xide.cdt.launch.attachingdo.stop.at.symbol=main
+com.tensilica.xide.cdtcommandlist=
